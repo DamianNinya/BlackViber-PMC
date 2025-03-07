@@ -191,7 +191,8 @@ Hitman 3, shift fire to Bravo, over.
 - Pause messages with **Break**  
 - Confirm orders with **Roger** or **Wilco**  
 - If you don't hear **"Over"**, don't reply  
-- If you hear **"Out"**, the conversation is **done**  
+- If you hear **"Out"**, the conversation is **done**
+- ALWAYS REFER TO Team Leaders as "Actual" after their call sign
 
 ---
 
