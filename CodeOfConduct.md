@@ -1,3 +1,4 @@
+### Rules
 | Rule Number   | Description                                                   |
 |--------------|---------------------------------------------------------------|
 | 1            | Obedience is obligatory. Insubordination will be punished.     |
@@ -8,7 +9,6 @@
 | 6            | You MUST pass the training exam BCT (Basic Combat Training) conducted by any Staff Sergeant and MUST pass Flow Training by any Staff Sergeant. |
 | 7            | You have to take this seriously otherwise it will be an immediate ban. Those who take it seriously and rise through the ranks will be awarded and chosen for VIP EVENTS. |
 | 8            | NO sexual harassment. Immediate ban for anyone who jokes about it. |
-
 ### Warning System
 | Warning Number | Consequence             | Given By               |
 |---------------|--------------------------|-----------------------|
