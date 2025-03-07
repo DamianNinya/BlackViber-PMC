@@ -160,6 +160,21 @@ Hitman 1, this is Hitman 2, Eyes on target, Bravo point secured, over.
 
 ---
 
+### Radio Bearings & Distance Explanation
+Bearings are used to give precise enemy or point of interest locations by referencing the **compass heading** from your own position.
+
+Bearings are always given in **three-digit format** to avoid confusion.
+
+| Bearing   | Meaning                  |
+|----------|--------------------------|
+| **0-9-0** | East (090°)            |
+| **1-8-0** | South (180°)           |
+| **2-7-0** | West (270°)           |
+| **3-6-0** | North (360° or 0°)     |
+| **2-4-0** | Southwest (240°)       |
+
+---
+
 ### Contact Report Example
 Scenario: Team is moving to exfil but spots enemy activity.
 
