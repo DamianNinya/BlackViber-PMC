@@ -65,4 +65,121 @@
 
 This table contains the **official NATO prowords** used for **radio communication**. For a comprehensive understanding, refer to the [Allied Communications Publication 125 (ACP 125)](https://en.wikipedia.org/wiki/ACP_125), which details radiotelephone procedures and prowords. Additionally, the [NATO phonetic alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet) is used to spell out letters and numbers clearly during transmissions.
 
-Let me know if you need further additions, corrections, or more specialized sections!
+# NATO Phonetic Alphabet
+
+| Letter | Code Word  | Pronunciation   |
+|--------|-----------|----------------|
+| A      | Alfa      | AL-FAH         | // no this is not wrong alot of people spell it "Alpha" but the NATO Alphabet is spelt "Alfa"
+| B      | Bravo     | BRAH-VOH       |
+| C      | Charlie   | CHAR-LEE       |
+| D      | Delta     | DELL-TAH       |
+| E      | Echo      | ECK-OH        |
+| F      | Foxtrot  | FOKS-TROT      |
+| G      | Golf      | GOLF          |
+| H      | Hotel     | HOH-TEL       |
+| I      | India     | IN-DEE-AH     |
+| J      | Juliett   | JEW-LEE-ETT   |
+| K      | Kilo      | KEY-LOH       |
+| L      | Lima      | LEE-MAH       |
+| M      | Mike      | MIKE          |
+| N      | November  | NO-VEM-BER    |
+| O      | Oscar     | OSS-CAH       |
+| P      | Papa      | PAH-PAH       |
+| Q      | Quebec    | KEH-BECK      |
+| R      | Romeo     | ROW-ME-OH     |
+| S      | Sierra    | SEE-AIR-RAH   |
+| T      | Tango     | TANG-GO       |
+| U      | Uniform   | YOU-NEE-FORM  |
+| V      | Victor    | VIK-TAH       |
+| W      | Whiskey   | WISS-KEY      |
+| X      | X-ray     | ECKS-RAY      |
+| Y      | Yankee    | YANG-KEY      |
+| Z      | Zulu      | ZOO-LOO       |
+
+# NATO Phonetic Alphabet in Communication
+
+The **NATO Phonetic Alphabet** is widely used in radio communications to ensure clear and unambiguous messaging, especially in high-stress or noisy environments. One of its common applications is **numerical communication**, where letters from the phonetic alphabet are used to replace numbers or designate locations.
+
+---
+
+### Numerical Communication Example
+In some mission protocols, pre-assigned locations or objectives may be designated using **Alfa, Bravo, Charlie** instead of numbers. This minimizes confusion when transmitting critical information.
+
+For example:
+- **Site 1** → **Alfa**
+- **Site 2** → **Bravo**
+- **Site 3** → **Charlie**
+
+However, **Zero** is always transmitted as "Zero" to avoid confusion with the letter "O."
+
+---
+
+### Example Comms Transmission
+Scenario: Team has two exfiltration sites — Site 1 (**Alfa**) and Site 2 (**Bravo**).
+
+**Transmission Example:**
+01 Actual, this is Hitman 1, Moving to Alfa, over.  
+Hitman 1, this is 01 Actual, say again, over.  
+01 Actual, I say again, Moving to Alfa, over.  
+Roger, Hitman 1. Moving to Alfa, out.  
+
+---
+
+### Location-Based Designations
+In some missions, **Alfa, Bravo, Charlie** may be used to designate key terrain, objectives, or rally points instead of numerical signs. This method helps maintain **OPSEC (Operational Security)** and prevents adversaries from easily identifying locations.
+
+Example Designations:
+- **Alfa** → Primary Exfiltration Point  
+- **Bravo** → Secondary Rally Point  
+- **Charlie** → Supply Cache  
+
+---
+
+### Military Comms Jargon & Phrases
+| Term        | Meaning               | Example Usage                 |
+|------------|----------------------|--------------------------------|
+| **Actual** | Unit Leader Call Sign | "Hitman 1, this is 01 Actual, request Sitrep, over." |
+| **Sitrep** | Situation Report      | "01 Actual, this is Hitman 2, Sitrep as follows, holding at Bravo, over." |
+| **Break**  | Pause between messages | "Contact front, break... Moving to Bravo, over." |
+| **Oscar Mike** | On the Move       | "01 Actual, this is Hitman 1, Oscar Mike to Alfa, over." |
+| **Solid Copy** | Message received & understood | "Solid Copy, out." |
+| **Standby** | Wait for further instruction | "Hitman 2, Standby, over." |
+| **Danger Close** | Friendly forces near target | "01 Actual, this is Hitman 1, requesting fire mission... Danger Close, over." |
+| **Wilco** | Will Comply          | "Roger, Wilco. Moving to Alfa, out." |
+| **Jackpot** | Target Secured     | "Hitman 1, this is 01 Actual, Jackpot. Package secured, over." |
+
+---
+
+### Comms Flow Structure
+A standard comms message follows this pattern:
+
+**[Receiver], this is [Sender], [Message], Over.**
+
+✅ Example:  
+Hitman 1, this is Hitman 2, Eyes on target, Bravo point secured, over.
+
+---
+
+### Contact Report Example
+Scenario: Team is moving to exfil but spots enemy activity.
+
+01 Actual, this is Hitman 1, Contact front, two times foot mobiles, break...  
+Bearing 2-4-0, Danger Close, over.  
+Hitman 1, this is 01 Actual, Solid Copy... break...  
+Hitman 3, shift fire to Bravo, over.  
+
+---
+
+### Final Notes
+- Always call **the receiver first**  
+- Use **"Say Again"** instead of **"Repeat"**  
+- Pause messages with **Break**  
+- Confirm orders with **Roger** or **Wilco**  
+- If you don't hear **"Over"**, don't reply  
+- If you hear **"Out"**, the conversation is **done**  
+
+---
+
+**Slow is Smooth, Smooth is Fast.**
+
+
