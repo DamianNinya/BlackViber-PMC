@@ -22,10 +22,6 @@
 
 ---
 
-### How to Use This Chart
-- Use these terms **only in appropriate situations** to avoid clogging comms or confusing teammates.
-- If unsure about a term, **ask your commanding officer** before using it in the field.
-- Enemy contacts should always be **PID-confirmed** before engaging.
-- Combine these with **Radio Communication Procedures** from the `RadioComms.md` file for maximum efficiency.
+### ill make changes to fit TaVR Later
 
 ---
